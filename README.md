@@ -13,15 +13,15 @@
 - Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [Click Here]()
 
 
-# Day-1(Python Introduction, Installation,Registrations)
+## Day-1(Python Introduction, Installation,Registrations)(28-06-2021)
 
 :point_right: [Python Slides](https://github.com/AP-Skill-Development-Corporation/Vemu-colg-python-cse-batch/blob/main/Programming_Using_Python_Slides%20(1).pdf)
 
-:point_right: [APSSDC Registration](http://engineering.apssdc.in/register/)
+:point_right: [APSSDC Registration Link for Python and github](http://engineering.apssdc.in/register/)
 
 :point_right: [Anaconda Installation](https://www.anaconda.com/products/individual) 
 
-:point_right: [Git Install](https://git-scm.com/downloads) 
+:point_right: [Github Install](https://git-scm.com/downloads) 
     
 - Discussion Topics
     - What is Python
@@ -39,3 +39,6 @@
     - High Level Data Types
     - Features Of Python
     - Diferent Types of Softwares for python programming 
+
+:point_right:[ Click here for Day-1 Recording Session Inaugaration part-1](https://transcripts.gotomeeting.com/#/s/5a395f224d7f42c30b290a48853160422b5e2b83661545163a4aaa8190a79bed) <br>
+:point_right:[Click Here for Day-1 Recording Session part-2](https://transcripts.gotomeeting.com/#/s/ea054d702da30ca986e67ce44443863595ccacbd0bc0539d49fcc746cbf73f5d)
