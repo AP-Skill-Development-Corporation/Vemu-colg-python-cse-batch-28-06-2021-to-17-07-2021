@@ -69,3 +69,6 @@
     - Task list
     - Emojis
     - Markdown cheetsheet
+
+:point_right: :computer_mouse: [Click Here for Day-2 Recording Session ](https://transcripts.gotomeeting.com/#/s/f66cea2c452306bcaa9d541efa87d00870615e8c2420876729c7dcd37f822d5e)
+
