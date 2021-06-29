@@ -1,4 +1,4 @@
-# Vemu-colg-python-cse-batch
+# Vemu-colg-python-cse-batch-28-06-2021 to 17-07-2021
 
 
 ## Instructions for attendance
