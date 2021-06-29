@@ -47,6 +47,7 @@
 
 ## Day-2 (Python comments,Print() ,Markdown)
 
+- Differences between IDLE and Anaconda Navigator(Jupyter Notebook)
 - Python Comments
     - Single Line comments
     - Inline comments
@@ -66,5 +67,5 @@
     - bold and itallic
     - table
     - Task list
-    
-    - 
+    - Emojis
+    - Markdown cheetsheet
