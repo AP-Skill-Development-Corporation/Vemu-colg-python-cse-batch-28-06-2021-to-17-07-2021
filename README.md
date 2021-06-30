@@ -72,3 +72,43 @@
 
 :point_right: :computer_mouse: [Click Here for Day-2 Recording Session ](https://transcripts.gotomeeting.com/#/s/f66cea2c452306bcaa9d541efa87d00870615e8c2420876729c7dcd37f822d5e)
 
+
+# Day-3(print(),Identifiers,Variables,Errors,Datatypes)
+
+- Types of statements in Print()
+    - Operations in print
+        - end
+        - sep
+
+- Identifiers
+- Variables
+    - Types of variables declaration
+
+- Errors
+    - Types of Errors
+        - Index Error
+        - Indentation Error
+        - Name Error
+        - Value Error
+        - Zero Division Error
+
+-  Datatypes
+     - Numerical
+        -  int
+            - Static
+            - Dynamic  
+        -  float
+            - Static
+            - Dynamic  
+        -  complex
+     - Boolean
+     - String
+        - static
+        - Dynamic
+     - List
+     - Tuple
+     - Dictionary
+     - Set    
+
+
+:point_right: :computer_mouse: [Click Here for Day-3 Recording Session ]()
