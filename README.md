@@ -189,5 +189,6 @@
         
         if number of units 500 then total bill = 0 +400+1000=1400
         
-        
+   
+:point_right: :computer_mouse: [Click Here for Day-4 Recording Session ](https://transcripts.gotomeeting.com/#/s/d10aa3c194adef6623c3e3251aed3c8be7165a29822f17d9066e9cced2090f4b)
   
