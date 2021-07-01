@@ -111,4 +111,4 @@
      - Set    
 
 
-:point_right: :computer_mouse: [Click Here for Day-3 Recording Session ]()
+:point_right: :computer_mouse: [Click Here for Day-3 Recording Session ](https://transcripts.gotomeeting.com/#/s/87291c7d8fa853b60514f75296f586406f13598c5d18050a40e10b4a3703b9a3)
