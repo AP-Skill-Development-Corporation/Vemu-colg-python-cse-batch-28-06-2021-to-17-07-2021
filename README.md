@@ -112,3 +112,82 @@
 
 
 :point_right: :computer_mouse: [Click Here for Day-3 Recording Session ](https://transcripts.gotomeeting.com/#/s/87291c7d8fa853b60514f75296f586406f13598c5d18050a40e10b4a3703b9a3)
+
+
+
+# Day-4(Keywords,Operators,conditionals)
+
+- Keywords
+- Operators in Python
+    - Arithematic Operators
+    - Assignament Operators
+    - Comparision Operators
+    - Relational Operators
+    - Logical Operators
+    - Identity Operators
+    - Membership Operators
+
+- Conditionals
+    - if
+    - elif (if else)
+    - nested if
+    - else
+    - Problem solving on conditionals
+
+## Conditionals Tasks 
+
+### Task 1 :  :point_down: 
+
+    ####  Read a number from the user and print the positive number if given nummber is greater than zero
+    #### print -ve if given no is less than 0
+    #### if user gave 0 ....It returns ZERO 
+       
+    
+###  Task 2 :point_down: 
+    #### 1. Read 3 numbers from the user and find which is the largest number
+    #### write a program to check a character is vowel or not
+    #### ACCEPT THE PERCENTAGE fROM THE USER AND DISPLAY THE GRADES ACCORDING TO THE FOLLOWING
+        - Below 25 -->D
+        - 25 to 45 --> C
+        - 45 to 50 --> B
+        - 50 to 60 --> B+
+        - 60 to 80 --> A
+        - Above 80+ ---> A+
+
+
+### Task 3: :point_down:
+    
+    #### A company decided to give bonus to employee according to following criteria
+        - Time period of service          Bonus
+            > 10                           10%
+            >=6 and <=10                   8%
+            Less than 6 years              5%
+    
+    
+### Task 4 : :point_down:
+    
+    #### Write a program to accept two nukmbers and mathematical operators and perform accordindly
+       
+   
+### Task -5 : :point_down:
+    #### Accept the age ,gender("M","F"),number of days and display the wages accordingly
+        
+        - Age                Gender      Wage/daily
+         >=18 and<30         M            900
+                             F            950
+         >=30 and <=40       M           1000
+                             F           1050
+        If age doesnot fall in any range then display the following message  "Enter apporoprate age"
+            
+            
+            
+### Task 6 : :point_down:
+     #### Acept the electric units from user and calculate the bill according  to following rates
+                First 100 units  : Free
+                Next 200 units   : 2 Rs per day
+                Above 300 units  : 5 rs per day 
+        
+        if number of units 500 then total bill = 0 +400+1000=1400
+        
+        
+  
