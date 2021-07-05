@@ -73,7 +73,7 @@
 :point_right: :computer_mouse: [Click Here for Day-2 Recording Session ](https://transcripts.gotomeeting.com/#/s/f66cea2c452306bcaa9d541efa87d00870615e8c2420876729c7dcd37f822d5e)
 
 
-# Day-3(print(),Identifiers,Variables,Errors,Datatypes)(30-06-2021)
+## Day-3(print(),Identifiers,Variables,Errors,Datatypes)(30-06-2021)
 
 - Types of statements in Print()
     - Operations in print
@@ -115,7 +115,7 @@
 
 
 
-# Day-4(Keywords,Operators,conditionals)(01-07-2021)
+## Day-4(Keywords,Operators,conditionals)(01-07-2021)
 
 - Keywords
 - Operators in Python
@@ -194,12 +194,12 @@
 
 
 
-# Day-5(Loops)(02-07-2021)
+## Day-5(Loops)(02-07-2021)
 
 :point_right: :computer_mouse: [Click Here for Day-5 Recording Session ](https://transcripts.gotomeeting.com/#/s/147291de26d53cb7e80d0a319b596cb6cb7adeffaa7f19811d2ec495e8079768)
 
 
-# Day-6(Strings,List)(03-07-2021)
+## Day-6(Strings,List)(03-07-2021)
 
 :point_right:  :computer_mouse: [ Click Here for Day-6 Recording Session part-1](https://transcripts.gotomeeting.com/#/s/45e9fad0b968e18e92cb4c93b6540fb34256138c0c3daa3bf5bccead6c2fd51d) <br>
 :point_right: :computer_mouse: [Click Here for Day-6 Recording Session part-2](https://transcripts.gotomeeting.com/#/s/bc53720592a3f8c9a49355af129f3562d7c6ba3610c21cbf0bd3f8a655583666)
@@ -208,7 +208,7 @@
 
 
 
-# Day - 7(Data Structures)(05-07-2021)
+## Day - 7(Data Structures)(05-07-2021)
 
 - What is Data Structure
 - Types of Data Structure
