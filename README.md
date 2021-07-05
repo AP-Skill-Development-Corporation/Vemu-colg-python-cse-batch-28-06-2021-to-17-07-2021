@@ -45,7 +45,7 @@
 
 
 
-## Day-2 (Python comments,Print() ,Markdown)
+## Day-2 (Python comments,Print() ,Markdown)(29-06-2021)
 
 - Differences between IDLE and Anaconda Navigator(Jupyter Notebook)
 - Python Comments
@@ -73,7 +73,7 @@
 :point_right: :computer_mouse: [Click Here for Day-2 Recording Session ](https://transcripts.gotomeeting.com/#/s/f66cea2c452306bcaa9d541efa87d00870615e8c2420876729c7dcd37f822d5e)
 
 
-# Day-3(print(),Identifiers,Variables,Errors,Datatypes)
+# Day-3(print(),Identifiers,Variables,Errors,Datatypes)(30-06-2021)
 
 - Types of statements in Print()
     - Operations in print
@@ -115,7 +115,7 @@
 
 
 
-# Day-4(Keywords,Operators,conditionals)
+# Day-4(Keywords,Operators,conditionals)(01-07-2021)
 
 - Keywords
 - Operators in Python
@@ -191,4 +191,92 @@
         
    
 :point_right: :computer_mouse: [Click Here for Day-4 Recording Session ](https://transcripts.gotomeeting.com/#/s/d10aa3c194adef6623c3e3251aed3c8be7165a29822f17d9066e9cced2090f4b)
-  
+
+
+
+# Day-5(Loops)(02-07-2021)
+
+:point_right: :computer_mouse: [Click Here for Day-5 Recording Session ](https://transcripts.gotomeeting.com/#/s/147291de26d53cb7e80d0a319b596cb6cb7adeffaa7f19811d2ec495e8079768)
+
+
+# Day-6(Strings,List)(03-07-2021)
+
+:point_right:  :computer_mouse: [ Click Here for Day-6 Recording Session part-1](https://transcripts.gotomeeting.com/#/s/45e9fad0b968e18e92cb4c93b6540fb34256138c0c3daa3bf5bccead6c2fd51d) <br>
+:point_right: :computer_mouse: [Click Here for Day-6 Recording Session part-2](https://transcripts.gotomeeting.com/#/s/bc53720592a3f8c9a49355af129f3562d7c6ba3610c21cbf0bd3f8a655583666)
+
+
+
+
+
+# Day - 7(Data Structures)(05-07-2021)
+
+- What is Data Structure
+- Types of Data Structure
+    - List
+        - Slicing
+        - Nested List
+        - Built-in functions
+            - type()
+            - len()
+            - min()
+            - max()
+            - sorted()
+            - sum()....
+        - Differences between all ,any
+        - List Methods
+            - append()
+            - clear()
+            - copy()
+            - count()
+            - extend()
+            - index()
+            - insert()
+            - pop()
+            - remove()
+            - reverse()
+            - sort() 
+            - delete()
+            - Differences between remove() and pop() and Delete()
+
+- Problem solving On List Tasks :point_down:
+
+## Task 1:
+
+        # WAP to accept 10 numbers from the user  and add in the given list
+
+        # mylist=[36,29,13,78,25]
+
+
+## TASK 2 
+
+       # WAP to accept 20 numbers from user if the given number is even list1  and user given  number is odd added in list 2
+
+             
+## TASK 3
+        # WAP to find second largest number in the given list
+
+         # Ex:[12,4,6,34]
+         o/p : 12
+         
+## TASK 4
+
+        i/p : li1= [10,20,30,40]
+       : li2= [100,200,300,400]
+       
+       
+       o/p : 10  400
+             20  300
+             30  200
+             40  100
+             
+## TASK 5
+      
+       5.mylist=["hi"," ","Vemu","Python","","A","b"," "]
+
+
+
+        Delete the empty string
+             
+
+:point_right: :computer_mouse: [Click Here for Day-4 Recording Session ](https://transcripts.gotomeeting.com/#/s/e2d014b5dcf1249382d2af382cd4040ef47643c313b6ca1a6aef19cd19b94502)
+
