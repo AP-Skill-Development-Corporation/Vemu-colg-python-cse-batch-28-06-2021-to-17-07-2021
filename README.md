@@ -280,3 +280,18 @@
 
 :point_right: :computer_mouse: [Click Here for Day-4 Recording Session ](https://transcripts.gotomeeting.com/#/s/e2d014b5dcf1249382d2af382cd4040ef47643c313b6ca1a6aef19cd19b94502)
 
+
+
+## Day-8(Tuples,Sets)(06-07-2021)
+
+- Tuples
+    - Nested Tuple
+    - Packing and Unpacking
+    - Type casting use tuples
+    - List to tuple
+    - Delete
+    - Built in functions
+
+- Sets
+    - Difference between List ,Tuple and Sets
+     
