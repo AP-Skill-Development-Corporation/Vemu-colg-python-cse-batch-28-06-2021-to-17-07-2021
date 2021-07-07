@@ -278,7 +278,7 @@
         Delete the empty string
              
 
-:point_right: :computer_mouse: [Click Here for Day-4 Recording Session ](https://transcripts.gotomeeting.com/#/s/e2d014b5dcf1249382d2af382cd4040ef47643c313b6ca1a6aef19cd19b94502)
+:point_right: :computer_mouse: [Click Here for Day-7 Recording Session ](https://transcripts.gotomeeting.com/#/s/e2d014b5dcf1249382d2af382cd4040ef47643c313b6ca1a6aef19cd19b94502)
 
 
 
@@ -295,3 +295,7 @@
 - Sets
     - Difference between List ,Tuple and Sets
      
+
+:point_right: :computer_mouse: [Click Here for Day-8 Recording Session ](https://transcripts.gotomeeting.com/#/s/a7f8a30bd5c8cbf2775234c4408e172bbeb4cdde594ad977557f2d43d0e8ec53)
+
+
