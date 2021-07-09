@@ -299,3 +299,75 @@
 :point_right: :computer_mouse: [Click Here for Day-8 Recording Session ](https://transcripts.gotomeeting.com/#/s/a7f8a30bd5c8cbf2775234c4408e172bbeb4cdde594ad977557f2d43d0e8ec53)
 
 
+## Day-9 (Sets,Dictionary,Functions)(07-07-2021)
+
+- Sets
+    - Set Methods
+    - Problem Solving
+- Dictionary
+    - Dictionary Methods
+
+### Tasks
+
+             ## Read your college name from the uswer and make a dictionary of characters along with their ASCII values
+                # colg={"V":ASCII value}
+
+
+# Task2
+
+                # Prepare a dictionary of suares for the number which are even in  a range (1,10)
+
+                # keys : range(1,10)
+                # values : squarea  1 ,4
+
+                # {1:1,2:4,3:9}
+
+
+
+ # Task 3 (bill app)
+
+                # idly :20
+                # dosa 30 
+                
+                
+ :point_right: :computer_mouse: [Click Here for Day-9 Recording Session ](https://transcripts.gotomeeting.com/#/s/336afc671d2bc1fc41cd4eedc367a7273d185aa8d8020b4b7bffc55f4996672b)
+ 
+ 
+ ## Day-10(Functions)(08-07-2021)
+ 
+ - Functions
+ - Difference between global and local functions
+    - Types of functions
+        - User Defined
+            - Types of User Defined
+                - With Arguments with return Type
+                - without argument without return type
+                - Without arguments with return
+                - with arguments without retirn type
+                - Required Arguments /Positional Arguments
+                - Keyword arguments
+                - Default Arguments
+                - Variable Length argumnets
+                - pass  
+        - Pre defined   
+
+:point_right: :computer_mouse: [Click Here for Day-10 Recording Session ](https://transcripts.gotomeeting.com/#/s/5172f51afd957924a87ae35c7411d48db21e017b3222a39c5fdefd9932199a2b)
+
+
+
+## Day-11(Calculator Pg , Comprehensions,Functional Programming)(09-07-2021)
+
+- Calculator APP
+- Comprehension
+    - Types of Comprehension
+        - List Comprehension
+        - dictionary Comprehension
+        - Generator comprehension
+        - Set Comprehension
+
+- Functional Programming
+    - Lambda
+    - Map  
+
+:point_right: :computer_mouse: [Click Here for Day-11 Recording Session ](https://transcripts.gotomeeting.com/#/s/353ca19a41612be6986a0dd451f7f4443887b1d7beabbcfd87ad06e6f341d441)
+
