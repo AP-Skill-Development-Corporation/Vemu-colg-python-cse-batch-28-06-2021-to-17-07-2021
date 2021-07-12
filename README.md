@@ -371,3 +371,11 @@
 
 :point_right: :computer_mouse: [Click Here for Day-11 Recording Session ](https://transcripts.gotomeeting.com/#/s/353ca19a41612be6986a0dd451f7f4443887b1d7beabbcfd87ad06e6f341d441)
 
+
+
+
+
+
+
+:point_right: :computer_mouse: [Click Here for Day-12 Recording Session] (https://transcripts.gotomeeting.com/#/s/836ab5d9a271188fb4f8e4996124004d9943376f2c8dd5da71c1f38a9fc06389)
+
