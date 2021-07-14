@@ -372,10 +372,45 @@
 :point_right: :computer_mouse: [Click Here for Day-11 Recording Session ](https://transcripts.gotomeeting.com/#/s/353ca19a41612be6986a0dd451f7f4443887b1d7beabbcfd87ad06e6f341d441)
 
 
+## Day-12(Functional Programming)(10-07-2021)
 
-
-
-
+- Lambda
+- Map
+- Filter
+- Reduce
 
 :point_right: :computer_mouse: [Click Here for Day-12 Recording Session](https://transcripts.gotomeeting.com/#/s/836ab5d9a271188fb4f8e4996124004d9943376f2c8dd5da71c1f38a9fc06389)
 
+
+## Day-13(Regular Expressions)(12-07-2021)
+
+- Regular Expressions
+
+:point_right: :computer_mouse: [Click Here for Day-13 Recording Session](https://transcripts.gotomeeting.com/#/s/4a0eff95c78efb15ca44b8159ff8318c4a85c2110a4a652d33bf03b093f82f39)
+
+
+## Day-14(File Handling , Iterators and Generators)(13-07-2021)
+
+- File Handling
+    - What is File
+    - What is File Handling
+    - File Methods
+    - File Modes
+    - With function
+- Iterators
+- Generators
+
+:point_right: :computer_mouse: [Click Here for Day-13 Recording Session](https://transcripts.gotomeeting.com/#/s/ace2920e8e7dafde827a82dd993a91a9581b6741d9ccb0521c182371f26c911e)
+
+
+## Day-15 (Packages and Modules in Python)
+
+- User defined Packages  and Modules
+- Built-in Packages and Modules
+
+- Task Explanation for re
+    - Task -1 Phone number Validation
+    - Email Validation 
+
+
+:point_right: :computer_mouse: [Click Here for Day-15 Recording Session](https://transcripts.gotomeeting.com/#/s/d58784b9269f54af420cf67ed5ebd378e320ae8326cfa0dbc9fddbeb1d09d14c)
