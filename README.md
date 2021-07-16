@@ -414,3 +414,35 @@
 
 
 :point_right: :computer_mouse: [Click Here for Day-15 Recording Session](https://transcripts.gotomeeting.com/#/s/d58784b9269f54af420cf67ed5ebd378e320ae8326cfa0dbc9fddbeb1d09d14c)
+
+
+
+## Day-16 (OOPs in Python)(15-07-2021)
+
+- classes
+- Objects
+- Constructors
+- Inheritance
+- Packages and Modules in Python
+
+
+- Task explanation:
+    - Email Validation (re)
+    - Phone number Validation(re)
+
+:point_right: :computer_mouse: [Click Here for Day-16 Recording Session](https://transcripts.gotomeeting.com/#/s/8251bd86d1b3832dc19d16c7a9a48baa1981b2b1810fac66646639409c7683d3)
+
+
+## Day-17 (OOPs conti,Tasks)(16-07-2021)
+
+- Polymorphism
+- Abstraction
+- Encapsulation
+
+- Task Explanation
+
+- Menu card Application
+- Contacts application
+     
+
+:point_right: :computer_mouse: [Click Here for Day-17 Recording Session]()
