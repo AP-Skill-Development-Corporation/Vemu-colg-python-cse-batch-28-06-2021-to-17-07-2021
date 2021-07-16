@@ -440,9 +440,8 @@
 - Encapsulation
 
 - Task Explanation
-
-- Menu card Application
-- Contacts application
+    - Menu card Application
+    - Contacts application
      
 
 :point_right: :computer_mouse: [Click Here for Day-17 Recording Session]()
