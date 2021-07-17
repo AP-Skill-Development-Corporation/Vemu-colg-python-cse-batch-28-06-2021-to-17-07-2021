@@ -444,4 +444,4 @@
     - Contacts application
      
 
-:point_right: :computer_mouse: [Click Here for Day-17 Recording Session]()
+:point_right: :computer_mouse: [Click Here for Day-17 Recording Session](https://transcripts.gotomeeting.com/#/s/61cd70ac1ae8e5f0cc39ddaa680f5e069239f6be2d357888e2a64fc6b1a3c57b)
