@@ -489,7 +489,7 @@
 
 
 [Vemu colg second years github link](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021) <br>
-[Vemu colg first yeras github link](https://github.com/AP-Skill-Development-Corporation/Vemu_Institute_Online_Python_Batch-2)
+[Vemu colg first years github link](https://github.com/AP-Skill-Development-Corporation/Vemu_Institute_Online_Python_Batch-2)
 
 
 
