@@ -438,10 +438,55 @@
 - Polymorphism
 - Abstraction
 - Encapsulation
+- Packages and Modules in OOPs
 
 - Task Explanation
     - Menu card Application
     - Contacts application
      
-
+     
 :point_right: :computer_mouse: [Click Here for Day-17 Recording Session](https://transcripts.gotomeeting.com/#/s/61cd70ac1ae8e5f0cc39ddaa680f5e069239f6be2d357888e2a64fc6b1a3c57b)
+
+
+
+## Day-18(Numpy,Pandas ,Matplotlib)(18-07-2021)
+
+
+- Numpy
+    - Arrays()
+        - Array is a homogeneous datatype
+        - 1-D
+        - 2-D
+        - n-D- 
+    - Arange()
+    - zeros()
+    - ones()
+    - linspace()
+    - eye()
+    - random()    
+   - Numpy Properties
+        - ndim(no.of dimensions
+        - shape(return the length of array in tuple format)
+        - size(It returns count of multiply the elements
+        - Itemsize(Returns  the size of an elements in bytes)
+        - datatype(datatype)
+- Pandas
+    - Series
+    - Data Frames
+
+- Matplotlib
+     - Line graph
+     - bar graph
+     - scatter graph
+     -  histogram
+     -  boxplot
+     -  pie chart
+
+
+:point_right: :computer_mouse: [Click Here for Day-18 Recording Session](https://transcripts.gotomeeting.com/#/s/d195a7c9023a3a986bea42be1438d45c054438afc79fc4357ae2fcebdc8259e8)
+
+
+
+
+[Vemu colg second years github link](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021)
+[Vemu colg first yeras github link](https://github.com/AP-Skill-Development-Corporation/Vemu_Institute_Online_Python_Batch-2)
