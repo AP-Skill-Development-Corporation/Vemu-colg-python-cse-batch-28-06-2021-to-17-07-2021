@@ -488,5 +488,13 @@
 
 
 
-[Vemu colg second years github link](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021)
+[Vemu colg second years github link](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021) <br>
 [Vemu colg first yeras github link](https://github.com/AP-Skill-Development-Corporation/Vemu_Institute_Online_Python_Batch-2)
+
+
+
+## Succesfully completed Python Online Workshop 
+
+ - Thank you guys  :handshake:   
+ - Thanks for your support  :pray:  :smiley: :blush:   
+
